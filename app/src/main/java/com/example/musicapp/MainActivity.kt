@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        supportActionBar?.hide()
+
         myRecyclerView= findViewById(R.id.recyclerView)
         val retrofitBuilder= Retrofit.Builder()
             .baseUrl("https://deezerdevs-deezer.p.rapidapi.com/")
