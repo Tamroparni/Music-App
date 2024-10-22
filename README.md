@@ -21,7 +21,8 @@ A music app that fetches music data from the Deezer API, displays it using `Recy
 
 ## Screenshots 📸
 
-![image](https://github.com/user-attachments/assets/ea2a4ad2-f19e-4cfa-bb37-f219370c6e4c)
+![WhatsApp Image 2024-10-22 at 07 53 03_dae67f5a](https://github.com/user-attachments/assets/112f03af-d93b-4c9d-9f22-4458244d5097)
+
 
 
 ## Setup Instructions 🚀
